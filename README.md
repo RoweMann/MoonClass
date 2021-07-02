@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @RoweMann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rowemann840@gmail.com
+- 👋 Hi, I’m 王一鸣
+- 👀 I’m interested in 软件设计课🧐🧐🧐
+- 🌱 I’m currently learning python,C艹,vue
+- 💞️ I’m looking to collaborate on ... 软件设计project
+- 📫 How to reach me 
+- - [Gmail me](rowemann840@gmail.com)
+- - [CQU邮箱](20203523@cqu.edu.cn)
 
 <!---
 RoweMann/RoweMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
