@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 王一鸣
+- 👋 Hi, I’m BertreB
 - 👀 I’m interested in 软件设计课🧐🧐🧐
 - 🌱 I’m currently learning python,C艹,vue
 - 💞️ I’m looking to collaborate on ... 软件设计project
